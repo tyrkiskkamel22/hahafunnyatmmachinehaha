@@ -1,16 +1,16 @@
-#Hæveautomat
+# HÃ¦veautomat
 
-· Hæve penge
+Â· HÃ¦ve penge
 int metode for saldo int efter indtastning af string kommando
 
-· Indsætte penge
+Â· IndsÃ¦tte penge
 int metode for saldo int efter indtastning af string kommando
 
-· Se sin saldo
+Â· Se sin saldo
 string kommando
 
-· Ændre sin pinkode
+Â· Ã†ndre sin pinkode
 string kommando
 
-· Success
-opnået
+Â· Success
+opnÃ¥et
