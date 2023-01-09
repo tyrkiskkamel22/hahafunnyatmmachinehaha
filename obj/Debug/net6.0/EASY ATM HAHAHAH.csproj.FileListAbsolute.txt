@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\bin\Debug\net6.0\EASY ATM HAHAHAH.exe
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\bin\Debug\net6.0\EASY ATM HAHAHAH.deps.json
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\bin\Debug\net6.0\EASY ATM HAHAHAH.runtimeconfig.json
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\bin\Debug\net6.0\EASY ATM HAHAHAH.dll
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\bin\Debug\net6.0\EASY ATM HAHAHAH.pdb
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.dll
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\refint\EASY ATM HAHAHAH.dll
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.pdb
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\EASY ATM HAHAHAH.genruntimeconfig.cache
+C:\Users\Bruger\source\repos\EASY ATM HAHAHAH\obj\Debug\net6.0\ref\EASY ATM HAHAHAH.dll
